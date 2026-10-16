@@ -7,7 +7,7 @@ The project includes both a **customer-facing frontend** and a **backend API** f
 ## 🌐 Live Demo
 
 **Frontend:**  
-https://greencart-three-alpha.vercel.app/
+https://greencart-frontend-ashy-kappa.vercel.app/
 
 **GitHub Repository:**  
 https://github.com/dharmendraa17/Greencart
